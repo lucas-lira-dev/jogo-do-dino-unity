@@ -1,0 +1,14 @@
+.vs
+Library
+Temp
+*.apk
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor-firstpass.csproj 
+Assembly-CSharp-firstpass.csproj
+UNIFATENE-18.sln UniversoFateneFinal.sln
+/build
+/.vscode
+/.UNIFATENE-18_Data
+/.vs
+/obj
+/*.csproj
